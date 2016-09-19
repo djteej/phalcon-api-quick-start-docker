@@ -1,0 +1,14 @@
+# PhpStorm
+.idea
+
+# Logs
+log/*
+
+# Vendor
+vendor/*
+
+# OSX #
+*.DS_Store
+.AppleDouble
+.LSOverride
+

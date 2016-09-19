@@ -1,0 +1,11 @@
+{
+  "name": "djteej/phalcon3",
+  "description": "Phalcon 3 API Quick Start",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Trevor Smith",
+      "email": "djtrevorsmith@gmail.com"
+    }
+  ],
+}
